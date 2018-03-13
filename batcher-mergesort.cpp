@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-#define MAX_NUM 1000.
+#define MAX_NUM 1000.0
 
 void swap(double* a, double* b){
 		*a = *b + *a;
